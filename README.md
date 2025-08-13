@@ -1,4 +1,4 @@
-# FullStack-eCommerce-marketplace
+# FullStack-E-Commerce-site
 
 ## 🚀 Features
 - User Authentication
